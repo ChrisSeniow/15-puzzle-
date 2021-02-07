@@ -1,2 +1,2 @@
-# 8-puzzle-
-Java program to solve an 8 puzzle using various shortest path algorithms 
+# 15-puzzle-
+Java program to solve an 15 puzzle using various shortest path algorithms 
